@@ -1,4 +1,4 @@
-L SPeed Vector
+L SPeed Legacy
 ==============
 
 L Speed is a mod that combines some scripts and little tweaks in one package which is aimed to improve performance, reduce lags and expand battery life.
